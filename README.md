@@ -1,4 +1,4 @@
-# Next.js course
-> Learn Next.js
+# Welcome 
+> Get to know me
 
-Follow along with [the course](https://hendrixer.github.io/nextjs-course/)
+
